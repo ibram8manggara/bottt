@@ -1,16 +1,33 @@
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+		
+	
+	
+
 {
   "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
-  "namebot": "Senkuu",
-  "botNumber": "6283823742094@s.whatsapp.net",
-  "owner": ["6281312960392@s.whatsapp.net"],
-  "instagram": "https://instagram.com/repannthisori021_",
+  "namebot": "BOT IB",
+  "botNumber": "6283119591196@s.whatsapp.net",
+  "owner": ["6288888888888@s.whatsapp.net"],
+  "instagram": "https://instagram.com/ibram_yoweslah",
   "author": "Yntkts",
   "session": "senku-md",
-  "email": "yntkts@gmail.com",
+  "email": "ibrammanggaraa@gmail.com",
   "self": false,
   "packInfo":{
-    "packname": "Senkuu",
-    "author": "Beta ✓"
+    "packname": "yahh wahyu",
+    "author": "awokawok"
   },
   "ignore": {
 		"directory": ["umum"]
